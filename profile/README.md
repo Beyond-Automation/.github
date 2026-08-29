@@ -1,77 +1,72 @@
-# Beyond Automation
+<div align="center">
+
+# BEYOND AUTOMATION
 
 ### Engineering practical software for modern IT operations.
 
 **Practical software. Reliable automation. Clearer infrastructure.**
 
-Beyond Automation builds tools for the people responsible for keeping modern IT environments healthy, secure, patched, and connected.
+[Website](https://beyondautomation.io) · [LinkedIn](https://www.linkedin.com/company/beyond-automation-io)
 
-We focus on real operational problems and engineer software that reduces uncertainty, surfaces risk clearly, and helps IT professionals make better decisions.
-
----
-
-## Products
-
-### AIHAT
-**Infrastructure Health Audit Toolkit**
-
-A Windows infrastructure assessment product that evaluates system health, Windows Update, security, and networking while producing clear health findings and professional reporting.
-
-**Status:** Released  
-**Availability:** Free
-
-### PatchPilot
-**Windows Patch Readiness & Update Health**
-
-A desktop product designed to assess Windows patch readiness, expose update blockers, and help IT teams understand why endpoints are not patching correctly.
-
-**Status:** Release Candidate
-
-### NetFixLab
-**Network Troubleshooting & Diagnostics**
-
-A practical network troubleshooting platform focused on helping IT professionals diagnose connectivity, DNS, routing, and infrastructure problems faster.
-
-**Status:** Launching
+</div>
 
 ---
 
-## How We Engineer
+## What We Build
 
-Beyond Automation products are built around a disciplined engineering process:
+Beyond Automation engineers practical tools for the people responsible for keeping modern IT environments healthy, secure, patched, and connected.
+
+We focus on real operational problems and build software that reduces uncertainty, surfaces risk clearly, and helps IT professionals make better decisions.
+
+| Product | Purpose | Status |
+| --- | --- | --- |
+| **AIHAT** | Windows infrastructure health assessment and reporting | **Released · Free** |
+| **PatchPilot** | Windows patch readiness and update-health assessment | **Release Candidate** |
+| **NetFixLab** | Practical network troubleshooting and diagnostics | **Launching** |
+
+### AIHAT — Infrastructure Health Audit Toolkit
+Evaluates Windows system health, Windows Update, security, and networking while producing clear findings and professional reporting.
+
+### PatchPilot — Windows Patch Readiness & Update Health
+Designed to expose update blockers and help IT teams understand why Windows endpoints are not patching correctly.
+
+### NetFixLab — Network Troubleshooting & Diagnostics
+Focused on helping IT professionals diagnose connectivity, DNS, routing, and infrastructure problems faster.
+
+---
+
+## Engineering Standard
+
+Our products are built around disciplined engineering rather than disposable scripts:
 
 - Security-conscious design
-- Version-controlled development
-- Pull-request workflows
-- Automated validation
-- Release testing
-- Professional packaging
+- Version-controlled development and pull-request workflows
+- Automated validation and release testing
+- Professional customer-facing packaging
 - Real-world user acceptance testing
 - Maintainable architecture
 
-We share product outcomes, engineering lessons, screenshots, demonstrations, and technical evidence while keeping proprietary source code and implementation details private.
+We share product outcomes, engineering lessons, demonstrations, and technical evidence while protecting proprietary source code and implementation details.
 
-**Public proof. Private engineering core.**
+<div align="center">
+
+### Public proof. Private engineering core.
+
+</div>
 
 ---
 
 ## Focus Areas
 
-- Windows Infrastructure
-- PowerShell Automation
-- Infrastructure Health
-- Patch Readiness
-- Network Troubleshooting
-- Release Engineering
-- IT Operations
+`Windows Infrastructure` · `PowerShell Automation` · `Infrastructure Health` · `Patch Readiness` · `Network Troubleshooting` · `Release Engineering` · `IT Operations`
 
 ---
 
-## Connect
+<div align="center">
 
-**Website:** https://beyondautomation.io  
-**LinkedIn:** https://www.linkedin.com/company/beyond-automation-io
-
----
+**Beyond Automation**  
+[https://beyondautomation.io](https://beyondautomation.io) · [LinkedIn](https://www.linkedin.com/company/beyond-automation-io)
 
 © 2026 Beyond Automation. All rights reserved.
+
+</div>
