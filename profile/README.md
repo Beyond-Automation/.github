@@ -1,16 +1,12 @@
 <div align="center">
 
-# BEYOND AUTOMATION
+<img src="./assets/ba-github-banner.svg" alt="Beyond Automation — Engineering practical software for modern IT operations" width="100%" />
 
-### Engineering practical software for modern IT operations.
+<br />
 
-**Practical software. Reliable automation. Clearer infrastructure.**
-
-[Website](https://beyondautomation.io) · [LinkedIn](https://www.linkedin.com/company/beyond-automation-io)
+[**Website**](https://beyondautomation.io) · [**LinkedIn**](https://www.linkedin.com/company/beyond-automation-io)
 
 </div>
-
----
 
 ## What We Build
 
