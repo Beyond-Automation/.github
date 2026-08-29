@@ -1,111 +1,77 @@
-<div align="center">
-
 # Beyond Automation
 
-### Engineering Smarter IT Operations
+### Engineering practical software for modern IT operations.
 
-**Practical software. Reliable automation. Stronger infrastructure.**
+**Practical software. Reliable automation. Clearer infrastructure.**
 
-</div>
+Beyond Automation builds tools for the people responsible for keeping modern IT environments healthy, secure, patched, and connected.
 
----
-
-## Our Mission
-
-Beyond Automation builds practical software and automation solutions that simplify IT operations, strengthen infrastructure, and empower technology professionals to do their best work.
-
-## Our Vision
-
-To become the trusted engineering partner that organizations rely on to modernize IT through practical innovation, operational excellence, and solutions built for the real world.
-
-## Why We Exist
-
-We believe technology should remove obstacles—not create them.
-
-Every solution we build is guided by a simple principle: deliver practical, dependable tools that make IT operations simpler, more secure, and more effective.
+We focus on real operational problems and engineer software that reduces uncertainty, surfaces risk clearly, and helps IT professionals make better decisions.
 
 ---
 
-## Core Principles
-
-### Engineering First
-Build with quality, security, and maintainability from day one.
-
-### Solve Real Problems
-Focus on meaningful challenges that improve everyday IT operations.
-
-### Practical Innovation
-Adopt new technologies where they provide lasting value.
-
-### Security by Design
-Treat security as a foundation, not an afterthought.
-
-### Continuous Improvement
-Learn, refine, and improve with every release.
-
-### Build for the Community
-Create tools and knowledge that help IT professionals succeed.
-
----
-
-## Featured Projects
+## Products
 
 ### AIHAT
-**AI Infrastructure Health Audit Toolkit**
+**Infrastructure Health Audit Toolkit**
 
-A practical infrastructure assessment toolkit designed to help IT professionals evaluate system health, identify risk, improve visibility, and make better operational decisions.
+A Windows infrastructure assessment product that evaluates system health, Windows Update, security, and networking while producing clear health findings and professional reporting.
 
-### Beyond Automation Website
-The public home of Beyond Automation—showcasing our mission, products, engineering standards, and future direction.
+**Status:** Released  
+**Availability:** Free
 
-### BeyondAutomation-Brand
-The official source of truth for Beyond Automation logos, brand assets, visual standards, and identity.
+### PatchPilot
+**Windows Patch Readiness & Update Health**
 
-### BeyondAutomation-Platform
-Shared engineering components, reusable tooling, and foundational resources that support Beyond Automation projects.
+A desktop product designed to assess Windows patch readiness, expose update blockers, and help IT teams understand why endpoints are not patching correctly.
 
----
+**Status:** Release Candidate
 
-## Engineering Standards
+### NetFixLab
+**Network Troubleshooting & Diagnostics**
 
-Every Beyond Automation project is built around a consistent engineering process:
+A practical network troubleshooting platform focused on helping IT professionals diagnose connectivity, DNS, routing, and infrastructure problems faster.
 
-- Secure by default
-- Version controlled
-- Pull-request reviewed
-- CI validated
-- CodeQL scanned
-- Documented
-- Production tested
-- Release managed
-- Built for maintainability
+**Status:** Launching
 
 ---
 
-## Technologies
+## How We Engineer
 
-- PowerShell
-- Next.js
-- TypeScript
-- GitHub Actions
-- GitHub CodeQL
-- Microsoft Azure
-- Microsoft 365
+Beyond Automation products are built around a disciplined engineering process:
+
+- Security-conscious design
+- Version-controlled development
+- Pull-request workflows
+- Automated validation
+- Release testing
+- Professional packaging
+- Real-world user acceptance testing
+- Maintainable architecture
+
+We share product outcomes, engineering lessons, screenshots, demonstrations, and technical evidence while keeping proprietary source code and implementation details private.
+
+**Public proof. Private engineering core.**
+
+---
+
+## Focus Areas
+
 - Windows Infrastructure
-- Automation Engineering
-- Infrastructure Operations
+- PowerShell Automation
+- Infrastructure Health
+- Patch Readiness
+- Network Troubleshooting
+- Release Engineering
+- IT Operations
 
 ---
 
 ## Connect
 
-- Website: Coming soon
-- LinkedIn: Coming soon
+**Website:** https://beyondautomation.io  
+**LinkedIn:** https://www.linkedin.com/company/beyond-automation-io
 
 ---
 
-<div align="center">
-
-**Build it once. Build it right. Reuse it everywhere.**
-
-</div>
+© 2026 Beyond Automation. All rights reserved.
