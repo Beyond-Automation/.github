@@ -4,7 +4,7 @@
 
 <br />
 
-[**Website**](https://beyondautomation.io) · [**LinkedIn**](https://www.linkedin.com/company/beyond-automation-io)
+[**Website**](https://beyondautomation.io) · [**Download AIHAT**](https://beyondautomation.io/aihat) · [**LinkedIn**](https://www.linkedin.com/company/beyond-automation-io)
 
 </div>
 
@@ -16,17 +16,29 @@ We focus on real operational problems and build software that reduces uncertaint
 
 | Product | Purpose | Status |
 | --- | --- | --- |
-| **AIHAT** | Windows infrastructure health assessment and reporting | **Released · Free** |
+| [**AIHAT**](https://github.com/Beyond-Automation/AIHAT-Releases) | Windows infrastructure health assessment and reporting | **v1.2.0 · Released Free** |
 | **PatchPilot** | Windows patch readiness and update-health assessment | **Release Candidate** |
 | **NetFixLab** | Practical network troubleshooting and diagnostics | **Launching** |
 
 ### AIHAT — Infrastructure Health Audit Toolkit
-Evaluates Windows system health, Windows Update, security, and networking while producing clear findings and professional reporting.
+
+AIHAT evaluates Windows system health, Windows Update, security, and networking while producing clear findings and professional local reporting.
+
+**[Download the signed AIHAT v1.2.0 installer](https://github.com/Beyond-Automation/AIHAT-Releases/releases/tag/v1.2.0)**
+
+- Free public Windows tool
+- Digitally signed and timestamped
+- Windows verified publisher: **Randall Lewis**
+- Read-only assessment
+- No account, telemetry, or audit-result upload
+- Published SHA-256 checksum
 
 ### PatchPilot — Windows Patch Readiness & Update Health
+
 Designed to expose update blockers and help IT teams understand why Windows endpoints are not patching correctly.
 
 ### NetFixLab — Network Troubleshooting & Diagnostics
+
 Focused on helping IT professionals diagnose connectivity, DNS, routing, and infrastructure problems faster.
 
 ---
@@ -35,12 +47,14 @@ Focused on helping IT professionals diagnose connectivity, DNS, routing, and inf
 
 Our products are built around disciplined engineering rather than disposable scripts:
 
-- Security-conscious design
+- Security-conscious design and least-privilege access
 - Version-controlled development and pull-request workflows
-- Automated validation and release testing
+- Protected branches and automated quality gates
+- Dependency, secret, and vulnerability scanning
 - Professional customer-facing packaging
 - Real-world user acceptance testing
-- Maintainable architecture
+- Signed, checksummed public releases
+- Maintainable architecture and documented support boundaries
 
 We share product outcomes, engineering lessons, demonstrations, and technical evidence while protecting proprietary source code and implementation details.
 
@@ -49,6 +63,18 @@ We share product outcomes, engineering lessons, demonstrations, and technical ev
 ### Public proof. Private engineering core.
 
 </div>
+
+---
+
+## Trust and Security
+
+Official public releases are distributed only through repositories owned by the **Beyond-Automation** organization and through [beyondautomation.io](https://beyondautomation.io).
+
+- [AIHAT releases and documentation](https://github.com/Beyond-Automation/AIHAT-Releases)
+- [Organization security policy](https://github.com/Beyond-Automation/.github/blob/main/SECURITY.md)
+- [Beyond Automation contact](https://beyondautomation.io/contact)
+
+Do not download Beyond Automation software from third-party mirrors. Security vulnerabilities should never be posted in public issues.
 
 ---
 
@@ -61,7 +87,7 @@ We share product outcomes, engineering lessons, demonstrations, and technical ev
 <div align="center">
 
 **Beyond Automation**  
-[https://beyondautomation.io](https://beyondautomation.io) · [LinkedIn](https://www.linkedin.com/company/beyond-automation-io)
+[Website](https://beyondautomation.io) · [AIHAT](https://beyondautomation.io/aihat) · [LinkedIn](https://www.linkedin.com/company/beyond-automation-io)
 
 © 2026 Beyond Automation. All rights reserved.
 
