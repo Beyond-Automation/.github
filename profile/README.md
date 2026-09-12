@@ -72,7 +72,7 @@ Official public releases are distributed only through repositories owned by the 
 
 - [AIHAT releases and documentation](https://github.com/Beyond-Automation/AIHAT-Releases)
 - [Organization security policy](https://github.com/Beyond-Automation/.github/blob/main/SECURITY.md)
-- [Beyond Automation contact](https://beyondautomation.io/contact)
+- [Beyond Automation contact](mailto:contact@beyondautomation.io)
 
 Do not download Beyond Automation software from third-party mirrors. Security vulnerabilities should never be posted in public issues.
 
